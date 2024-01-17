@@ -1,4 +1,4 @@
-# algorithm-checkpoint
+# checkpoint.algo
 VAR
 C : CHAR:= '';
 nb_char :INTEGER := 0;
